@@ -10,3 +10,6 @@ In the root directory, run the following command:
 ```
 flutter run
 ```
+## More information
+- [Original Example](https://pages.github.com/)
+- [More about the showDialog function](https://api.flutter.dev/flutter/material/showDialog.html)
